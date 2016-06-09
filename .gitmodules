@@ -1,0 +1,6 @@
+[submodule "fedora"]
+	path = fedora
+	url = https://github.com/boxcutter/fedora.git
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/boxcutter/ubuntu.git
