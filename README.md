@@ -4,7 +4,6 @@
 
 This repository contains [Packer](https://packer.io/) templates for creating Vagrant boxes from minimal/net isos.
 
-
 For details on usage, see README.md in disto subdirectories.
 
 ## Boxes
@@ -15,4 +14,3 @@ For details on usage, see README.md in disto subdirectories.
 
 * Fedora - [Github](https://github.com/boxcutter/fedora)
 * Ubuntu - [Github](https://github.com/boxcutter/ubuntu)
-
